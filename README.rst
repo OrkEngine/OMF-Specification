@@ -1,1 +1,2 @@
-The OMF specification is hosted on readthe docs, please head over to https://omf-specs.readthedocs.io for more info
+# OMF
+OMF or OrkModelFormat is a model format designed to be easy to load, save and use, and still be powerful.
